@@ -8,14 +8,14 @@
     },
     {
         "device_id": "5d0a0e77e945b77d",
-        "password": "pass123",
+        "key": "pass123",
         "expirydate": "11-03-2026",
         "Allowoffline": false
     },
 
     {
         "device_id": "c9cc3822c467c9c3",
-        "password": "123pas",
+        "key": "123pas",
         "expirydate": "31-12-2026",
         "Allowoffline": false 
     },
