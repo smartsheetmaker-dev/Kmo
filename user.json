@@ -11,4 +11,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": false 
     },
+        {
+        "device_id": "a36b8c2d8c9d0573",
+        "key": "demopass",
+        "expirydate": "13-03-2026",
+        "Allowoffline": false 
+    },
 ]
